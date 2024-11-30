@@ -29,11 +29,11 @@ This project is a web-based platform that predicts emotions from images using a 
   
 # Setup Instructions
 
-Clone the repository:
+* Clone the repository:
 git clone https://github.com/yourusername/emotion-classification-website.git
-Install dependencies:
+* Install dependencies:
 pip install -r requirements.txt
-Run the app:
+* Run the app:
 python app.py
 
 
